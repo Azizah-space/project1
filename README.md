@@ -1,6 +1,3 @@
-📌 Deskripsi project singkat
-Bank XX menghadapi churn rate sebesar 21%, yang artinya ribuan nasabah meninggalkan layanan setiap tahun. Hal ini menimbulkan potensi kerugian signifikan, terutama jika nasabah bernilai tinggi ikut churn.
-
 # Customer Churn Analysis with Excel  
 *(Case Study: Bank XX)*  
 
