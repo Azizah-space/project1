@@ -20,4 +20,7 @@ Bank XX menghadapi churn rate sebesar **21,1%**, yang artinya ribuan nasabah men
 - Power Query (ETL)
 - Microsoft Excel  
 - Pivot Table  
-- Dashboard (Slicer, Charts)  
+- Dashboard (Slicer, Charts)
+
+## Dashboard Overview
+![Dashboard Preview](https://github.com/Azizah-space/excel-customer-churn-analysis/blob/main/Overview.png)
